@@ -1,0 +1,13 @@
+blue canyon:
+    evap rate: 0.11
+    false positive rate: 0
+    false negative rate: 0.66
+cottam:
+    evap rate: 0.11
+    false positive rate: 0
+    false negative rate: 0.22
+    
+forbush:
+    evap rate: 0.45
+    false positive rate: 0
+    false negative rate: 0.73

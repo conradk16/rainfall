@@ -1,0 +1,9 @@
+blue canyon:
+    evap rate: 0.06 
+    failure rate: 0.2
+cottam:
+    evap rate: 0.075
+    failure rate: 0.125
+forbush:
+    evap rate: 0.075
+    failure rate: 0.14
